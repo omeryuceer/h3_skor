@@ -1,0 +1,1 @@
+3.haftada Python’un random (rastgele) sayı üretme özelliklerini kullanabilmek için random modülünü programa dahil eder.
